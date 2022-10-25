@@ -1,2 +1,2 @@
 # nurse-schedule-analysis
-Analysis of nurses' work schedule in a Czech hospital
+EDA of nurses' work schedule in a Czech hospital
