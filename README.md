@@ -3,7 +3,7 @@ EDA of nurses' work schedule in a Czech hospital
 
 /// README ///
 
-Hello! Thank you for reviewing my EDA for the ap2020_anonymized.xlsx hospital dataset
+Hello! This is my EDA for the ap2020_anonymized.xlsx hospital dataset
 
 The main part is described and can be observed in the Jupiter notebook:
 https://github.com/JanCinis/nurse-schedule-EDA/blob/43e44e152cfbffed719fafac63f697f07147c002/Nurse_schedule_EDA.ipynb
@@ -33,6 +33,3 @@ Below is a brief guide to each step of my solution:
 
 7. EDA recommendations and insights for building a support tool for planning shifts for the next day
 - 6 conclusion points
-
-
-I would be grateful for your feedback and suggestions!
